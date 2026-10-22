@@ -1,0 +1,8 @@
+# NOTE: All data in this file is FICTIONAL, prepared for portfolio
+# demonstration only. Names, asset IDs, dates, and readings are invented.
+# No real employer, real equipment serial, or real maintenance record is
+# represented. Use these templates with your own real data in production.
+service_id,asset_id,service_date,run_hours_at_service,technician_id,oil_type,oil_quantity_l,air_filter_part,oil_filter_part,separator_part,oil_sample_result,next_service_run_hours,notes
+SVC-101,CMP-001,2026-01-10,4015,Tech-C,Synthetic-46,25,AF-75-001,OF-75-001,SEP-75-001,Normal,8015,Routine 4000h service
+SVC-102,CMP-002,2025-12-05,3980,Tech-C,Synthetic-46,20,AF-55-001,OF-55-001,SEP-55-001,Slightly-elevated-iron,7980,Investigate wear trend
+SVC-103,CMP-001,2025-06-15,2050,Tech-C,Top-up-only,2,none,none,none,N/A,4015,Top-up between services

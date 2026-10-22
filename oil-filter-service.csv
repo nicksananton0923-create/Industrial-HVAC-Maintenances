@@ -1,0 +1,5 @@
+# NOTE: All data in this file is FICTIONAL, prepared for portfolio
+# demonstration only. Names, asset IDs, dates, and readings are invented.
+# No real employer, real equipment serial, or real maintenance record is
+# represented. Use these templates with your own real data in production.
+service_id,asset_id,service_date,run_hours_at_service,technician_id,oil_type,oil_quantity_l,air_filter_part,oil_filter_part,separator_part,oil_sample_result,next_service_run_hours,notes

@@ -1,0 +1,8 @@
+# NOTE: All data in this file is FICTIONAL, prepared for portfolio
+# demonstration only. Names, asset IDs, dates, and readings are invented.
+# No real employer, real equipment serial, or real maintenance record is
+# represented. Use these templates with your own real data in production.
+asset_id,asset_name,compressor_type,plant_area,location,manufacturer,model,serial_number,install_date,rated_pressure_bar,rated_flow_m3min,rated_power_kw,criticality,status,notes
+CMP-001,Compressor-1,RotaryScrew,Plant-A,Compressor-Room,FictionalAir Ltd,FA-75,FA75-001,2023-01-15,7,12.5,75,High,Active,Instrument air
+CMP-002,Compressor-2,RotaryScrew,Plant-A,Compressor-Room,FictionalAir Ltd,FA-55,FA55-002,2022-06-10,7,9.5,55,Medium,Active,Plant air backup
+CMP-003,Compressor-3,Reciprocating,Building-3,Workshop,FictionalAir Ltd,FA-15,FA15-001,2021-09-20,10,1.5,11,Low,Active,Workshop point-of-use

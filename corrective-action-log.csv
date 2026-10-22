@@ -1,0 +1,5 @@
+# NOTE: All data in this file is FICTIONAL, prepared for portfolio
+# demonstration only. Names, asset IDs, dates, and readings are invented.
+# No real employer, real equipment serial, or real maintenance record is
+# represented. Use these templates with your own real data in production.
+action_id,asset_id,deficiency_date,deficiency_description,severity,required_action,assigned_to,target_date,completed_date,verified_by,notes
